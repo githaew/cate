@@ -1,0 +1,25 @@
+index{
+    background-color: blue;
+    color: white;
+}
+button{
+    background-color: lightseagreen;
+}
+form{
+    background-color: lightseagreen;
+    font-size: small;
+    text-decoration: underline;
+    color: white;
+    .student{
+
+        font-size: smaller;
+    }
+}
+table{
+    font-style: italic;
+    font-size: smaller;
+    h5{
+        font-style: normal;
+        color: blue;
+    }
+}
